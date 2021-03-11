@@ -1,0 +1,13 @@
+*.iml
+*.pyc
+*.conf
+*.egg
+*.egg-info
+## Directory-based project format:
+.idea/
+testes/
+build/
+
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
