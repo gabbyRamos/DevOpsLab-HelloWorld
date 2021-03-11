@@ -20,5 +20,4 @@ script:
 deploy:
   provider: heroku
   api-key: $HEROKU_API_KEY
-    secure:
   app: gabsdevops
